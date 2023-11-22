@@ -1,0 +1,10 @@
+bu botni ishgfa tushirish uchun 5ta asosiy ish.
+1. BotFatherdan boshqa bot apinisini olish
+2. ShowJsondan id olish
+3. uni .env faylga qoyish 
+4. terminal va powershelga o'tib =  python manage.py makemigrations va python manage.py migrate komandasini berish
+5. app faylni yurgizish va tepaga /admin deb yozib kodni terish
+0.login=www , parol=www
+
+
+va bot ishledi :)
